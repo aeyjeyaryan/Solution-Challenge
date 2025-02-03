@@ -24,8 +24,8 @@ Ensure you have Python installed. Install the required dependencies using:
 `pip install opencv-python numpy mediapipe pillow google-generativeai`
 
 
-
-** Working Prototype
+ 
+ ## Working Prototype
 
 <img width="631" alt="Screenshot 2025-02-03 at 2 18 25 PM" src="https://github.com/user-attachments/assets/94b76ae4-5707-4d24-91d4-659ae7571a29" />
 
